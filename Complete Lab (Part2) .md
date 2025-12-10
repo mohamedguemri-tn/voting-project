@@ -4,6 +4,7 @@
 
 ## **Objectives**
 
+
 At the end of this lab, you will:
 
 * Build Docker images for all **Voting App** microservices.
